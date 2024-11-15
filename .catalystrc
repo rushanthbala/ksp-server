@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "25693000000008077",
+      "name": "ksp-server",
+      "domain": {
+        "id": "10091466077",
+        "name": "ksp-server-871438175.development"
+      },
+      "timezone": "Asia/Colombo",
+      "env": [
+        {
+          "idx": 1,
+          "id": "871438175",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
